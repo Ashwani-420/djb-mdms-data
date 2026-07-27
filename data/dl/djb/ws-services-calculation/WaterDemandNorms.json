@@ -357,8 +357,8 @@
       "totalLpcd": 45,
       "potableLpcd": 15,
       "nonPotableLpcd": 30,
-      "contingencyPercentage": 10,
-      "ifcCalculationBasis": "POTABLE_ONLY_IF_OVER_12500",
+      "contingencyPercentage": 0,
+      "ifcCalculationBasis": "TOTAL_WATER_ALWAYS",
       "isActive": true
     },
     {
@@ -372,8 +372,8 @@
       "totalLpcd": 45,
       "potableLpcd": 15,
       "nonPotableLpcd": 30,
-      "contingencyPercentage": 10,
-      "ifcCalculationBasis": "POTABLE_ONLY_IF_OVER_12500",
+      "contingencyPercentage": 0,
+      "ifcCalculationBasis": "TOTAL_WATER_ALWAYS",
       "isActive": true
     },
     {
@@ -387,8 +387,8 @@
       "totalLpcd": 45,
       "potableLpcd": 15,
       "nonPotableLpcd": 30,
-      "contingencyPercentage": 10,
-      "ifcCalculationBasis": "POTABLE_ONLY_IF_OVER_12500",
+      "contingencyPercentage": 0,
+      "ifcCalculationBasis": "TOTAL_WATER_ALWAYS",
       "isActive": true
     },
     {
@@ -402,8 +402,8 @@
       "totalLpcd": 45,
       "potableLpcd": 15,
       "nonPotableLpcd": 30,
-      "contingencyPercentage": 10,
-      "ifcCalculationBasis": "POTABLE_ONLY_IF_OVER_12500",
+      "contingencyPercentage": 0,
+      "ifcCalculationBasis": "TOTAL_WATER_ALWAYS",
       "isActive": true
     },
     {
