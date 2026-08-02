@@ -306,6 +306,23 @@
             "allowedUsages": [
                 "SPORTS_COMPLEX_GROUND"
             ]
+        },
+        {
+            "propertyTypeCode": "RoomingOrLodgingHouse",
+            "allowedUsages": [
+                "ROOMING_HOUSE",
+                "LODGING_HOUSE",
+                "GUEST_HOUSE",
+                "HOSTEL"
+            ]
+        },
+        {
+            "propertyTypeCode": "HazardousBuilding",
+            "allowedUsages": [
+                "HAZARDOUS_INDUSTRY",
+                "EXPLOSIVE_STORAGE",
+                "CHEMICAL_PLANT"
+            ]
         }
     ]
 }
