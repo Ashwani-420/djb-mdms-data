@@ -20809,6 +20809,17 @@
       "serviceCode": "ws-calculator",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 3025,
+      "name": "Search Bills",
+      "url": "/egov-searcher/bill-genie/mcollectbills/_get",
+      "displayName": "Search Bills",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
     }
   ]
 }
