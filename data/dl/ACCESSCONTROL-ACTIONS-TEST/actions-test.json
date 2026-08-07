@@ -20820,6 +20820,17 @@
       "serviceCode": "Searcher",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 3026,
+      "name": "Water Mutation Payment Search",
+      "url": "/collection-services/payments/WS.MUTATION/_search",
+      "displayName": "collectionservices search",
+      "orderNumber": 11,
+      "enabled": true,
+      "serviceCode": "null",
+      "code": "null",
+      "path": ""
     }
   ]
 }
